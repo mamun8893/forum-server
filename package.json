@@ -1,0 +1,14 @@
+{
+  "name": "itclan-server-forum",
+  "description": "Example in memory forum api with json-server by itclanbd",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "itclan bd",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
