@@ -684,6 +684,52 @@
   },
   {
     "id": 13,
+    "title": "new forum 3",
+    "category": "Software",
+    "user": "55",
+    "replies": "66",
+    "views": "15.1",
+    "activity": "11",
+    "status": "latest",
+    "tag": [
+      {
+        "name": "Software",
+        "color": "#E7C204"
+      },
+      {
+        "name": "Management",
+        "color": "#1B41C9"
+      }
+    ],
+    "userImage": [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/7vpmZct/user1.png"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/dpWTbSN/user2.png"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/YPD9DX8/user3.png"
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/gTmT4bz/user4.png"
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/yXJDBxK/user5.png"
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/x8mXF2j/user6.png"
+      }
+    ]
+  },
+  {
+    "id": 14,
     "title": "new forum adds",
     "category": "Software",
     "user": "55",
